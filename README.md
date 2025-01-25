@@ -29,4 +29,4 @@ This project explores Netflix's vast collection of movies and TV shows through d
 ## How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Tableau-Netflix-Analysis.git
+   git clone https://github.com/swethaganesh10/Tableau-Netflix-Analysis.git
